@@ -1,0 +1,1214 @@
+1672511614384	geckodriver	INFO	Listening on 127.0.0.1:47799
+1672511614440	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "59331" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilegfLEgF"
+1672511614963	Marionette	INFO	Marionette enabled
+1672511614968	Marionette	INFO	Listening on port 42203
+WebDriver BiDi listening on ws://localhost:59331
+Read port: 42203
+1672511615155	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilegfLEgF/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:59331/devtools/browser/fff5974d-4580-4609-8d8b-59bff0f722ef
+[2022-12-31T18:33:38Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-12-31T18:33:38Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-12-31T18:33:38Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-12-31T18:33:38Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 1996\"  data: no]"
+1672511626995	Marionette	INFO	Stopped listening on port 42203
+1672517445879	geckodriver	INFO	Listening on 127.0.0.1:40175
+1672517445952	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "40329" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile1Qncuc"
+1672517446581	Marionette	INFO	Marionette enabled
+1672517446585	Marionette	INFO	Listening on port 41957
+WebDriver BiDi listening on ws://localhost:40329
+Read port: 41957
+1672517446793	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile1Qncuc/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:40329/devtools/browser/e2504e9b-26d8-41fc-9252-ae54a3f03516
+[2022-12-31T20:10:51Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-12-31T20:10:51Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-12-31T20:10:51Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-12-31T20:10:53Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1672517727206	geckodriver	INFO	Listening on 127.0.0.1:33739
+1672517727273	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "51209" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilezwbTwT"
+1672517728026	Marionette	INFO	Marionette enabled
+1672517728031	Marionette	INFO	Listening on port 41217
+WebDriver BiDi listening on ws://localhost:51209
+Read port: 41217
+1672517728286	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilezwbTwT/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:51209/devtools/browser/f3258b01-488f-423d-a786-17a39d78aff2
+[2022-12-31T20:15:32Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-12-31T20:15:32Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-12-31T20:15:32Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-12-31T20:15:33Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1672517784405	geckodriver	INFO	Listening on 127.0.0.1:34353
+1672517784450	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "33137" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileHvKN5C"
+1672517785024	Marionette	INFO	Marionette enabled
+1672517785029	Marionette	INFO	Listening on port 40747
+WebDriver BiDi listening on ws://localhost:33137
+Read port: 40747
+1672517785215	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileHvKN5C/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:33137/devtools/browser/f8b26717-813a-4467-bc79-e0dd333d32a5
+[2022-12-31T20:16:29Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-12-31T20:16:29Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-12-31T20:16:29Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-12-31T20:16:31Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1672517880093	geckodriver	INFO	Listening on 127.0.0.1:48803
+1672517880165	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "54943" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilebqrZep"
+1672517881367	Marionette	INFO	Marionette enabled
+1672517881377	Marionette	INFO	Listening on port 43705
+WebDriver BiDi listening on ws://localhost:54943
+Read port: 43705
+1672517881640	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilebqrZep/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:54943/devtools/browser/59f15625-624d-40d9-84d7-af2568b763f1
+[2022-12-31T20:18:06Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-12-31T20:18:06Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-12-31T20:18:06Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-12-31T20:18:06Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 1996\"  data: no]"
+1672518024263	Marionette	INFO	Stopped listening on port 43705
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1672518350409	geckodriver	INFO	Listening on 127.0.0.1:56671
+1672518350452	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "46799" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileW2nPj0"
+1672518351007	Marionette	INFO	Marionette enabled
+1672518351012	Marionette	INFO	Listening on port 41989
+WebDriver BiDi listening on ws://localhost:46799
+Read port: 41989
+1672518351214	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileW2nPj0/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:46799/devtools/browser/d777b722-94f7-437b-af79-3f51dde742a8
+[2022-12-31T20:25:56Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-12-31T20:25:56Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-12-31T20:25:56Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-12-31T20:25:56Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+1672518425115	geckodriver	INFO	Listening on 127.0.0.1:51789
+1672518425180	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "35887" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilepw2yHh"
+1672518426353	Marionette	INFO	Marionette enabled
+1672518426363	Marionette	INFO	Listening on port 40573
+WebDriver BiDi listening on ws://localhost:35887
+Read port: 40573
+1672518426623	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilepw2yHh/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:35887/devtools/browser/973b905f-b971-4204-ab27-9f9cf2922aa9
+[2022-12-31T20:27:11Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-12-31T20:27:11Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-12-31T20:27:11Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-12-31T20:27:11Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+1672518479505	geckodriver	INFO	Listening on 127.0.0.1:49123
+1672518479575	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "49719" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileiqTBck"
+1672518480209	Marionette	INFO	Marionette enabled
+1672518480213	Marionette	INFO	Listening on port 40267
+WebDriver BiDi listening on ws://localhost:49719
+Read port: 40267
+1672518480463	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileiqTBck/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:49719/devtools/browser/b249b00b-a185-4bc8-a771-b952704aed70
+[2022-12-31T20:28:04Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-12-31T20:28:04Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-12-31T20:28:04Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-12-31T20:28:04Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+1672518526371	geckodriver	INFO	Listening on 127.0.0.1:32999
+1672518526447	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "55793" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileDxUbWR"
+1672518527040	Marionette	INFO	Marionette enabled
+1672518527045	Marionette	INFO	Listening on port 41597
+Read port: 41597
+WebDriver BiDi listening on ws://localhost:55793
+1672518527184	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileDxUbWR/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:55793/devtools/browser/30ec409e-9ae5-49b9-8341-d5dd1a7ce369
+[2022-12-31T20:28:51Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-12-31T20:28:51Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-12-31T20:28:51Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-12-31T20:28:51Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 1996\"  data: no]"
+1672518580451	Marionette	INFO	Stopped listening on port 40267
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 1996\"  data: no]"
+1672518581515	Marionette	INFO	Stopped listening on port 40573
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 1996\"  data: no]"
+1672518582411	Marionette	INFO	Stopped listening on port 41989
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1672518634474	geckodriver	INFO	Listening on 127.0.0.1:49373
+1672518634544	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "44411" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile2HV235"
+1672518635730	Marionette	INFO	Marionette enabled
+1672518635735	Marionette	INFO	Listening on port 45311
+WebDriver BiDi listening on ws://localhost:44411
+Read port: 45311
+1672518635944	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile2HV235/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:44411/devtools/browser/d1b74f58-de39-42e6-9870-2a3edfb7a6e2
+[2022-12-31T20:30:40Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-12-31T20:30:40Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-12-31T20:30:40Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-12-31T20:30:40Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-12-31T20:31:02Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-12-31T20:31:02Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-12-31T20:31:02Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-12-31T20:31:02Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1672518706554	geckodriver	INFO	Listening on 127.0.0.1:55919
+1672518706624	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "41471" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileONqxhH"
+1672518707288	Marionette	INFO	Marionette enabled
+1672518707298	Marionette	INFO	Listening on port 37615
+WebDriver BiDi listening on ws://localhost:41471
+Read port: 37615
+1672518707596	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileONqxhH/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:41471/devtools/browser/e2726687-972a-4739-8ef7-a08ff926c64c
+[2022-12-31T20:31:51Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-12-31T20:31:51Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-12-31T20:31:51Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-12-31T20:31:51Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 1996\"  data: no]"
+1672518723279	Marionette	INFO	Stopped listening on port 37615
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1672519350135	geckodriver	INFO	Listening on 127.0.0.1:37825
+1672519350195	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "46203" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilewaHXkJ"
+1672519351415	Marionette	INFO	Marionette enabled
+1672519351425	Marionette	INFO	Listening on port 34729
+WebDriver BiDi listening on ws://localhost:46203
+Read port: 34729
+1672519351683	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilewaHXkJ/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:46203/devtools/browser/4df0dbac-9fb0-4cd0-9d73-279a7fd402b7
+[2022-12-31T20:42:36Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-12-31T20:42:36Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-12-31T20:42:36Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-12-31T20:42:36Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 1996\"  data: no]"
+1672519376090	Marionette	INFO	Stopped listening on port 34729
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1672519388533	geckodriver	INFO	Listening on 127.0.0.1:46177
+1672519388595	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "54643" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilezzGJ3Y"
+1672519389727	Marionette	INFO	Marionette enabled
+1672519389737	Marionette	INFO	Listening on port 44845
+WebDriver BiDi listening on ws://localhost:54643
+Read port: 44845
+1672519390014	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilezzGJ3Y/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:54643/devtools/browser/3927fca9-b94d-4286-ab7c-58e2d930db61
+[2022-12-31T20:43:14Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-12-31T20:43:14Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-12-31T20:43:14Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-12-31T20:43:14Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 1996\"  data: no]"
+1672519408808	Marionette	INFO	Stopped listening on port 44845
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1672519432921	geckodriver	INFO	Listening on 127.0.0.1:34099
+1672519432985	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "43035" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilenFrmqj"
+1672519433545	Marionette	INFO	Marionette enabled
+1672519433549	Marionette	INFO	Listening on port 41365
+WebDriver BiDi listening on ws://localhost:43035
+Read port: 41365
+1672519433724	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilenFrmqj/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:43035/devtools/browser/daeedac9-2dac-4265-8cb5-eba5939534e3
+[2022-12-31T20:43:57Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-12-31T20:43:57Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-12-31T20:43:57Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-12-31T20:43:57Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 1996\"  data: no]"
+1672519448815	Marionette	INFO	Stopped listening on port 41365
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1672519509409	geckodriver	INFO	Listening on 127.0.0.1:47183
+1672519509470	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "52349" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileC3nECH"
+1672519510464	Marionette	INFO	Marionette enabled
+1672519510470	Marionette	INFO	Listening on port 37733
+Read port: 37733
+WebDriver BiDi listening on ws://localhost:52349
+1672519510734	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileC3nECH/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:52349/devtools/browser/bd7e37a0-1a7f-47e5-b29e-8d66fc459168
+[2022-12-31T20:45:15Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-12-31T20:45:15Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-12-31T20:45:15Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-12-31T20:45:15Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-12-31T20:45:24Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-12-31T20:45:24Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-12-31T20:45:24Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-12-31T20:45:24Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.youtube.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.youtube.com"
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Jk7fixpOLBqPs8Ll1CI4HFyikeoml7Ub_Y2jZpe5d_o.js line 2 > eval line 5013 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: "Async method failed in safeAsyncMethod" (new Error("Connection closed, pending request to server0.conn0.windowGlobal4294967322/layout23, type getGrids failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:292:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:46:19\ngetAllGrids@resource://devtools/client/fronts/layout.js:171:17\nexports.safeAsyncMethod/<@resource://devtools/shared/async-utils.js:61:25\ngetGrids@resource://devtools/client/inspector/grids/grid-inspector.js:449:35\n", "resource://devtools/shared/protocol/Front.js", 106))
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Jk7fixpOLBqPs8Ll1CI4HFyikeoml7Ub_Y2jZpe5d_o.js line 2 > eval line 572 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Jk7fixpOLBqPs8Ll1CI4HFyikeoml7Ub_Y2jZpe5d_o.js line 2 > eval line 5025 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Jk7fixpOLBqPs8Ll1CI4HFyikeoml7Ub_Y2jZpe5d_o.js line 2 > eval line 2314 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 1996\"  data: no]"
+1672520839037	Marionette	INFO	Stopped listening on port 37733
+1672521662718	geckodriver	INFO	Listening on 127.0.0.1:44601
+1672521662777	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "50773" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilephQmQi"
+1672521663491	Marionette	INFO	Marionette enabled
+1672521663496	Marionette	INFO	Listening on port 45081
+WebDriver BiDi listening on ws://localhost:50773
+Read port: 45081
+1672521663733	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilephQmQi/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:50773/devtools/browser/f30ca5fb-b29c-43e7-b05e-730769fd49ae
+[2022-12-31T21:21:07Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-12-31T21:21:07Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-12-31T21:21:07Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-12-31T21:21:07Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-12-31T21:21:17Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-12-31T21:21:17Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-12-31T21:21:17Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-12-31T21:21:17Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+1672522165394	geckodriver	INFO	Listening on 127.0.0.1:45451
+1672522165456	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "42257" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileRPXNEY"
+1672522166015	Marionette	INFO	Marionette enabled
+1672522166019	Marionette	INFO	Listening on port 45755
+WebDriver BiDi listening on ws://localhost:42257
+Read port: 45755
+1672522166240	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileRPXNEY/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:42257/devtools/browser/2c351f56-3118-478e-9adb-955a00b6330e
+[2022-12-31T21:29:31Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-12-31T21:29:31Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-12-31T21:29:31Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-12-31T21:29:31Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-12-31T21:29:42Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-12-31T21:29:42Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-12-31T21:29:42Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-12-31T21:29:42Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.youtube.com"
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 1996\"  data: no]"
+1672522299965	Marionette	INFO	Stopped listening on port 45081
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Jk7fixpOLBqPs8Ll1CI4HFyikeoml7Ub_Y2jZpe5d_o.js line 2 > eval line 5007 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1672522588729	geckodriver	INFO	Listening on 127.0.0.1:38929
+1672522588782	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "36119" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilejVH9FD"
+1672522589460	Marionette	INFO	Marionette enabled
+1672522589464	Marionette	INFO	Listening on port 35001
+WebDriver BiDi listening on ws://localhost:36119
+Read port: 35001
+1672522589695	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilejVH9FD/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:36119/devtools/browser/2fae666b-47d9-4ba4-a35a-fa7ded4172f4
+[2022-12-31T21:36:34Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-12-31T21:36:34Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-12-31T21:36:34Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-12-31T21:36:34Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-12-31T21:36:43Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-12-31T21:36:43Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-12-31T21:36:43Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-12-31T21:36:43Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 1996\"  data: no]"
+1672522657218	Marionette	INFO	Stopped listening on port 35001
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 1996\"  data: no]"
+1672522658753	Marionette	INFO	Stopped listening on port 45755
+1672522660392	geckodriver	INFO	Listening on 127.0.0.1:37711
+1672522660452	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "58091" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilekNbb56"
+1672522661160	Marionette	INFO	Marionette enabled
+1672522661165	Marionette	INFO	Listening on port 41585
+WebDriver BiDi listening on ws://localhost:58091
+Read port: 41585
+1672522661410	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilekNbb56/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:58091/devtools/browser/a958a21a-dacf-4ccc-ac84-87720587a9ae
+[2022-12-31T21:37:46Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-12-31T21:37:46Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-12-31T21:37:46Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-12-31T21:37:47Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-12-31T21:37:52Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-12-31T21:37:52Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-12-31T21:37:52Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-12-31T21:37:52Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+JavaScript error: resource://devtools/client/framework/devtools.js, line 787: TypeError: inspector is undefined
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 1996\"  data: no]"
+1672522802082	Marionette	INFO	Stopped listening on port 41585
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1672523423735	geckodriver	INFO	Listening on 127.0.0.1:43499
+1672523423805	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "49359" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilefsU6m4"
+1672523424941	Marionette	INFO	Marionette enabled
+1672523424948	Marionette	INFO	Listening on port 35647
+WebDriver BiDi listening on ws://localhost:49359
+Read port: 35647
+1672523425169	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilefsU6m4/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:49359/devtools/browser/4ff46312-a84c-4fe7-85a5-14999941d5e6
+[2022-12-31T21:50:29Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-12-31T21:50:29Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-12-31T21:50:29Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-12-31T21:50:29Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-12-31T21:50:34Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-12-31T21:50:34Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-12-31T21:50:34Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-12-31T21:50:34Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 1996\"  data: no]"
+1672523439015	Marionette	INFO	Stopped listening on port 35647
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1672523447855	geckodriver	INFO	Listening on 127.0.0.1:38029
+1672523447918	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "56009" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileVM7zfH"
+1672523448794	Marionette	INFO	Marionette enabled
+1672523448799	Marionette	INFO	Listening on port 44133
+WebDriver BiDi listening on ws://localhost:56009
+Read port: 44133
+1672523448995	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileVM7zfH/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:56009/devtools/browser/b0b8aa3f-71a4-4ebd-a276-e6e1712c7cba
+[2022-12-31T21:50:53Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-12-31T21:50:53Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-12-31T21:50:53Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-12-31T21:50:53Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-12-31T21:50:58Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-12-31T21:50:58Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-12-31T21:50:58Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-12-31T21:50:58Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1672523574606	geckodriver	INFO	Listening on 127.0.0.1:49485
+1672523574669	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "40805" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileKNQfCa"
+1672523575608	Marionette	INFO	Marionette enabled
+1672523575613	Marionette	INFO	Listening on port 39713
+WebDriver BiDi listening on ws://localhost:40805
+Read port: 39713
+1672523575750	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileKNQfCa/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:40805/devtools/browser/5042d691-952a-4525-b06c-b0f046ad5a52
+[2022-12-31T21:53:00Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-12-31T21:53:00Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-12-31T21:53:00Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-12-31T21:53:00Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-12-31T21:53:07Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-12-31T21:53:07Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-12-31T21:53:07Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-12-31T21:53:07Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Jk7fixpOLBqPs8Ll1CI4HFyikeoml7Ub_Y2jZpe5d_o.js line 2 > eval line 7148 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[2022-12-31T21:53:48Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-12-31T21:53:48Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-12-31T21:53:48Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-12-31T21:53:48Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Jk7fixpOLBqPs8Ll1CI4HFyikeoml7Ub_Y2jZpe5d_o.js line 2 > eval line 1931 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Jk7fixpOLBqPs8Ll1CI4HFyikeoml7Ub_Y2jZpe5d_o.js line 2 > eval line 6900 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: NotAllowedError: The play method is not allowed by the user agent or the platform in the current context, possibly because the user denied permission.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Jk7fixpOLBqPs8Ll1CI4HFyikeoml7Ub_Y2jZpe5d_o.js line 2 > eval line 1705 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Jk7fixpOLBqPs8Ll1CI4HFyikeoml7Ub_Y2jZpe5d_o.js line 2 > eval line 2573 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 1996\"  data: no]"
+1672524132492	Marionette	INFO	Stopped listening on port 39713
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1672524163174	geckodriver	INFO	Listening on 127.0.0.1:36075
+1672524163242	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "52521" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofiletL6UuH"
+1672524163899	Marionette	INFO	Marionette enabled
+1672524163903	Marionette	INFO	Listening on port 45281
+WebDriver BiDi listening on ws://localhost:52521
+Read port: 45281
+1672524164115	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofiletL6UuH/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:52521/devtools/browser/1665ed2a-0fa8-4467-b927-7530e35d5447
+[2022-12-31T22:02:48Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-12-31T22:02:48Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-12-31T22:02:48Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-12-31T22:02:48Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-12-31T22:02:54Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-12-31T22:02:54Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-12-31T22:02:54Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-12-31T22:02:54Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+1672524257917	geckodriver	INFO	Listening on 127.0.0.1:41819
+1672524257979	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "56761" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileuJAdw2"
+1672524258584	Marionette	INFO	Marionette enabled
+1672524258588	Marionette	INFO	Listening on port 42255
+WebDriver BiDi listening on ws://localhost:56761
+Read port: 42255
+1672524258810	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileuJAdw2/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:56761/devtools/browser/6c1ebb04-0cc0-470f-9a72-22770fcfd48c
+[2022-12-31T22:04:22Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-12-31T22:04:22Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-12-31T22:04:22Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-12-31T22:04:22Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-12-31T22:04:30Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-12-31T22:04:30Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-12-31T22:04:30Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-12-31T22:04:30Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 1996\"  data: no]"
+1672524304801	Marionette	INFO	Stopped listening on port 42255
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 1996\"  data: no]"
+1672524305307	Marionette	INFO	Stopped listening on port 45281
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1672524403418	geckodriver	INFO	Listening on 127.0.0.1:59667
+1672524403483	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "59285" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileYMxiOm"
+1672524404289	Marionette	INFO	Marionette enabled
+1672524404295	Marionette	INFO	Listening on port 42529
+WebDriver BiDi listening on ws://localhost:59285
+Read port: 42529
+1672524404469	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileYMxiOm/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:59285/devtools/browser/7910469c-79be-4dbd-b7d9-818390840009
+[2022-12-31T22:06:48Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-12-31T22:06:48Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-12-31T22:06:48Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-12-31T22:06:48Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-12-31T22:06:54Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-12-31T22:06:54Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-12-31T22:06:54Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-12-31T22:06:54Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Jk7fixpOLBqPs8Ll1CI4HFyikeoml7Ub_Y2jZpe5d_o.js line 2 > eval line 4258 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Jk7fixpOLBqPs8Ll1CI4HFyikeoml7Ub_Y2jZpe5d_o.js line 2 > eval line 6214 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Jk7fixpOLBqPs8Ll1CI4HFyikeoml7Ub_Y2jZpe5d_o.js line 2 > eval line 7076 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Jk7fixpOLBqPs8Ll1CI4HFyikeoml7Ub_Y2jZpe5d_o.js line 2 > eval line 1798 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Jk7fixpOLBqPs8Ll1CI4HFyikeoml7Ub_Y2jZpe5d_o.js line 2 > eval line 6030 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Jk7fixpOLBqPs8Ll1CI4HFyikeoml7Ub_Y2jZpe5d_o.js line 2 > eval line 5948 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Jk7fixpOLBqPs8Ll1CI4HFyikeoml7Ub_Y2jZpe5d_o.js line 2 > eval line 4366 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Jk7fixpOLBqPs8Ll1CI4HFyikeoml7Ub_Y2jZpe5d_o.js line 2 > eval line 2987 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Jk7fixpOLBqPs8Ll1CI4HFyikeoml7Ub_Y2jZpe5d_o.js line 2 > eval line 2214 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Jk7fixpOLBqPs8Ll1CI4HFyikeoml7Ub_Y2jZpe5d_o.js line 2 > eval line 4938 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://www.google.com"
+1672524804359	geckodriver	INFO	Listening on 127.0.0.1:54125
+1672524804429	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "47563" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileFRT135"
+1672524805629	Marionette	INFO	Marionette enabled
+1672524805639	Marionette	INFO	Listening on port 42599
+WebDriver BiDi listening on ws://localhost:47563
+Read port: 42599
+1672524805897	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileFRT135/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:47563/devtools/browser/d1266b19-c08e-4bc2-bb28-03f0eca390fa
+[2022-12-31T22:13:30Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-12-31T22:13:30Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-12-31T22:13:30Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-12-31T22:13:30Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-12-31T22:13:36Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-12-31T22:13:36Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-12-31T22:13:36Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-12-31T22:13:36Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1672524910593	geckodriver	INFO	Listening on 127.0.0.1:43989
+1672524910656	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "52351" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileJPnPyS"
+1672524911370	Marionette	INFO	Marionette enabled
+1672524911375	Marionette	INFO	Listening on port 46655
+WebDriver BiDi listening on ws://localhost:52351
+Read port: 46655
+1672524911632	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileJPnPyS/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:52351/devtools/browser/fea595c5-23d2-4e81-a7fa-e1d80f9e3049
+[2022-12-31T22:15:15Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-12-31T22:15:15Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-12-31T22:15:15Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-12-31T22:15:15Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-12-31T22:15:22Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-12-31T22:15:22Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-12-31T22:15:22Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-12-31T22:15:22Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 1996\"  data: no]"
+1672524939265	Marionette	INFO	Stopped listening on port 46655
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 1996\"  data: no]"
+1672524942009	Marionette	INFO	Stopped listening on port 42529
+1672525115700	geckodriver	INFO	Listening on 127.0.0.1:54839
+1672525115760	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "52701" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile7tEj6e"
+1672525116954	Marionette	INFO	Marionette enabled
+1672525116963	Marionette	INFO	Listening on port 37289
+WebDriver BiDi listening on ws://localhost:52701
+Read port: 37289
+1672525117218	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile7tEj6e/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:52701/devtools/browser/4b071f1b-6ddd-4e06-a1f0-bc7e1e067e82
+[2022-12-31T22:18:41Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-12-31T22:18:41Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-12-31T22:18:41Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-12-31T22:18:41Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-12-31T22:18:46Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-12-31T22:18:46Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-12-31T22:18:46Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-12-31T22:18:46Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-12-31T22:20:24Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-12-31T22:20:24Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-12-31T22:20:24Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-12-31T22:20:24Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 1996\"  data: no]"
+1672525253631	Marionette	INFO	Stopped listening on port 37289
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1672525485192	geckodriver	INFO	Listening on 127.0.0.1:51687
+1672525485228	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "59573" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileKXG5IJ"
+1672525485743	Marionette	INFO	Marionette enabled
+1672525485747	Marionette	INFO	Listening on port 41865
+WebDriver BiDi listening on ws://localhost:59573
+Read port: 41865
+1672525485994	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileKXG5IJ/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:59573/devtools/browser/7dc000cc-8000-4310-bf60-5c93e2a1e118
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://consent.youtube.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://consent.youtube.com"
+console.error: (new TypeError("currentNode is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 66))
+TypeError: currentNode is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:66:20
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:312:10
+
+console.error: (new TypeError("currentNode is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 66))
+TypeError: currentNode is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:66:20
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:312:10
+
+[2022-12-31T22:26:11Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-12-31T22:26:11Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-12-31T22:26:11Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2022-12-31T22:26:11Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Jk7fixpOLBqPs8Ll1CI4HFyikeoml7Ub_Y2jZpe5d_o.js line 2 > eval line 1787 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/Jk7fixpOLBqPs8Ll1CI4HFyikeoml7Ub_Y2jZpe5d_o.js line 2 > eval line 7224 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+[2023-01-01T07:09:12Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2023-01-01T07:09:12Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2023-01-01T07:09:12Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2023-01-01T07:09:12Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2023-01-01T07:09:27Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2023-01-01T07:09:27Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2023-01-01T07:09:27Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2023-01-01T07:09:27Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+1672560184807	geckodriver	INFO	Listening on 127.0.0.1:37935
+1672560184848	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "52813" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileoAiRUQ"
+1672560185693	Marionette	INFO	Marionette enabled
+1672560185700	Marionette	INFO	Listening on port 35675
+WebDriver BiDi listening on ws://localhost:52813
+Read port: 35675
+1672560185957	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileoAiRUQ/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:52813/devtools/browser/8d939b1f-b778-4895-a774-49fbe6a68549
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1672560226553	geckodriver	INFO	Listening on 127.0.0.1:44961
+1672560226617	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "47219" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileQNeevt"
+1672560227820	Marionette	INFO	Marionette enabled
+1672560227829	Marionette	INFO	Listening on port 41327
+WebDriver BiDi listening on ws://localhost:47219
+Read port: 41327
+1672560228086	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileQNeevt/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:47219/devtools/browser/16d21834-feb2-4c6a-a1e4-2482ef32296c
+1672560267765	geckodriver	INFO	Listening on 127.0.0.1:38405
+1672560267828	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "44309" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofiledDFpq5"
+1672560269018	Marionette	INFO	Marionette enabled
+1672560269028	Marionette	INFO	Listening on port 37591
+Read port: 37591
+WebDriver BiDi listening on ws://localhost:44309
+1672560269284	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofiledDFpq5/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:44309/devtools/browser/98d8e87f-09ad-4af1-9302-46175e4fc830
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 1996\"  data: no]"
+1672560326558	Marionette	INFO	Stopped listening on port 41865
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 1996\"  data: no]"
+1672560330409	Marionette	INFO	Stopped listening on port 41327
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1672560337183	geckodriver	INFO	Listening on 127.0.0.1:35633
+1672560337246	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "45159" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileha4X2s"
+1672560337947	Marionette	INFO	Marionette enabled
+1672560337952	Marionette	INFO	Listening on port 38417
+WebDriver BiDi listening on ws://localhost:45159
+Read port: 38417
+1672560338187	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileha4X2s/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:45159/devtools/browser/13ceb634-c644-4029-96ca-b8ad62486d92
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1672561565871	geckodriver	INFO	Listening on 127.0.0.1:36435
+1672561565922	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "56477" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileXhTwNM"
+1672561566564	Marionette	INFO	Marionette enabled
+1672561566569	Marionette	INFO	Listening on port 44121
+WebDriver BiDi listening on ws://localhost:56477
+Read port: 44121
+1672561566790	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileXhTwNM/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:56477/devtools/browser/916ad461-8230-4bfc-aa79-dc70e76f8524
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 1996\"  data: no]"
+1672561622360	Marionette	INFO	Stopped listening on port 44121
+1672561624995	geckodriver	INFO	Listening on 127.0.0.1:37623
+1672561625063	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "58533" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileh2rHxG"
+1672561626172	Marionette	INFO	Marionette enabled
+1672561626182	Marionette	INFO	Listening on port 35775
+WebDriver BiDi listening on ws://localhost:58533
+Read port: 35775
+1672561626438	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileh2rHxG/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:58533/devtools/browser/fa49e08b-20be-45d2-902b-14ff4ce3f46c
+1672561692171	geckodriver	INFO	Listening on 127.0.0.1:58223
+1672561692239	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "41617" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilebLfmyz"
+1672561693436	Marionette	INFO	Marionette enabled
+1672561693446	Marionette	INFO	Listening on port 39099
+WebDriver BiDi listening on ws://localhost:41617
+Read port: 39099
+1672561693700	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilebLfmyz/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:41617/devtools/browser/631f0114-5951-4255-975a-dc9270b9a0bf
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 1996\"  data: no]"
+1672561860097	Marionette	INFO	Stopped listening on port 39099
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 1996\"  data: no]"
+1672561861634	Marionette	INFO	Stopped listening on port 35775
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1672561888756	geckodriver	INFO	Listening on 127.0.0.1:59333
+1672561888815	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "52459" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileWA7kaT"
+1672561889326	Marionette	INFO	Marionette enabled
+1672561889330	Marionette	INFO	Listening on port 42059
+WebDriver BiDi listening on ws://localhost:52459
+Read port: 42059
+1672561889734	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileWA7kaT/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:52459/devtools/browser/6713ec84-1756-4c89-a1f4-da8cd798999c
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://consent.youtube.com"
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 1996\"  data: no]"
+1672561926572	Marionette	INFO	Stopped listening on port 42059
+1672561942530	geckodriver	INFO	Listening on 127.0.0.1:58967
+1672561942600	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "57871" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileXFQp2G"
+1672561943585	Marionette	INFO	Marionette enabled
+1672561943592	Marionette	INFO	Listening on port 33325
+Read port: 33325
+WebDriver BiDi listening on ws://localhost:57871
+1672561943805	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileXFQp2G/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:57871/devtools/browser/9bb62662-9c47-439f-aaa3-3f9b13ae193d
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 1996\"  data: no]"
+1672561988039	Marionette	INFO	Stopped listening on port 33325
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1672562030991	geckodriver	INFO	Listening on 127.0.0.1:51855
+1672562031062	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "49765" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileOXYRvf"
+1672562031966	Marionette	INFO	Marionette enabled
+1672562031973	Marionette	INFO	Listening on port 37775
+WebDriver BiDi listening on ws://localhost:49765
+Read port: 37775
+1672562032194	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileOXYRvf/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:49765/devtools/browser/f9af8401-d561-41d3-bded-ff417de32851
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1672562080927	geckodriver	INFO	Listening on 127.0.0.1:59859
+1672562080969	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "47651" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileVc3x5R"
+1672562081603	Marionette	INFO	Marionette enabled
+1672562081608	Marionette	INFO	Listening on port 36625
+WebDriver BiDi listening on ws://localhost:47651
+Read port: 36625
+1672562081824	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileVc3x5R/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:47651/devtools/browser/f56bf57f-fef8-44cb-9c7e-895d2bb2cf1f
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1672562124521	geckodriver	INFO	Listening on 127.0.0.1:40097
+1672562124590	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "33441" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileJ3zxpe"
+1672562125224	Marionette	INFO	Marionette enabled
+1672562125228	Marionette	INFO	Listening on port 33747
+WebDriver BiDi listening on ws://localhost:33441
+Read port: 33747
+1672562125454	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileJ3zxpe/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:33441/devtools/browser/f739713b-69dd-416d-9ffd-00240b8fca04
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://consent.youtube.com"
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://consent.youtube.com"
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1672562292703	geckodriver	INFO	Listening on 127.0.0.1:34145
+1672562292779	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "50251" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile7hO0UQ"
+1672562293505	Marionette	INFO	Marionette enabled
+1672562293510	Marionette	INFO	Listening on port 40481
+WebDriver BiDi listening on ws://localhost:50251
+Read port: 40481
+1672562293714	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile7hO0UQ/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:50251/devtools/browser/8a564181-0948-4f54-b475-8e68b7d5a958
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://consent.youtube.com"
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1672562397471	geckodriver	INFO	Listening on 127.0.0.1:53289
+1672562397540	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "37879" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilefUUD5D"
+1672562398414	Marionette	INFO	Marionette enabled
+1672562398421	Marionette	INFO	Listening on port 34481
+WebDriver BiDi listening on ws://localhost:37879
+Read port: 34481
+1672562398666	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilefUUD5D/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:37879/devtools/browser/abf219b1-2499-4228-ada9-00e1b42638ec
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1672562661954	geckodriver	INFO	Listening on 127.0.0.1:55439
+1672562662020	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "46097" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile9LY0hZ"
+1672562663184	Marionette	INFO	Marionette enabled
+1672562663189	Marionette	INFO	Listening on port 42531
+WebDriver BiDi listening on ws://localhost:46097
+Read port: 42531
+1672562663401	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile9LY0hZ/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:46097/devtools/browser/40c625d8-0bf0-413d-813d-e82659414375
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 143"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:143:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:256:32
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 143"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:143:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:256:32
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 143"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:143:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:256:32
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 143"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:143:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:256:32
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 143"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:143:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:256:32
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 143"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:143:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:256:32
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 143"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:143:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:256:32
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 143"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:143:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:256:32
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 143"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:143:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:256:32
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 143"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:143:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:256:32
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 143"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:143:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:256:32
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 143"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:143:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:256:32
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 143"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:143:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:256:32
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 143"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:143:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:256:32
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 143"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:143:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:256:32
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 143"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:143:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:256:32
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 143"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:143:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:256:32
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 143"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:143:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:256:32
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 143"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:143:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:256:32
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 143"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:143:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:256:32
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 143"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:143:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:256:32
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 143"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:143:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:256:32
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 143"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:143:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:256:32
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 143"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:143:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:256:32
+
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1672562775052	geckodriver	INFO	Listening on 127.0.0.1:46437
+1672562775121	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "42405" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile6P72km"
+1672562776276	Marionette	INFO	Marionette enabled
+1672562776285	Marionette	INFO	Listening on port 36587
+WebDriver BiDi listening on ws://localhost:42405
+Read port: 36587
+1672562776543	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile6P72km/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:42405/devtools/browser/17ae42c5-913e-4d62-8f56-a2f98d0e9483
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 143"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:143:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:256:32
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 143"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:143:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:256:32
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 143"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:143:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:256:32
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 143"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:143:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:256:32
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 143"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:143:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:256:32
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 143"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:143:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:256:32
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 143"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:143:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:256:32
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 143"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:143:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:256:32
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 143"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:143:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:256:32
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 143"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:143:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:256:32
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 143"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:143:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:256:32
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 143"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:143:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:256:32
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 143"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:143:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:256:32
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 143"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:143:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:256:32
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 143"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:143:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:256:32
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 143"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:143:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:256:32
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 143"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:143:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:256:32
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 143"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:143:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:256:32
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 143"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:143:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:256:32
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 143"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:143:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:256:32
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 143"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:143:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:256:32
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 143"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:143:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:256:32
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 143"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:143:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:256:32
+
+Marionette threw an error: [Exception... "Failure"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: chrome://remote/content/marionette/capture.js :: capture.canvas :: line 143"  data: no]
+capture.canvas@chrome://remote/content/marionette/capture.js:143:62
+takeScreenshot@chrome://remote/content/marionette/actors/MarionetteCommandsParent.jsm:256:32
+
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1672562982775	geckodriver	INFO	Listening on 127.0.0.1:44173
+1672562982844	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "56593" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilep9iuxK"
+1672562983357	Marionette	INFO	Marionette enabled
+1672562983361	Marionette	INFO	Listening on port 35875
+WebDriver BiDi listening on ws://localhost:56593
+Read port: 35875
+1672562983529	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilep9iuxK/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:56593/devtools/browser/9084dc19-c974-48cd-92f7-071b7155e570
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1672563300955	geckodriver	INFO	Listening on 127.0.0.1:37947
+1672563301024	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "34909" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilevUbKx6"
+1672563302128	Marionette	INFO	Marionette enabled
+1672563302138	Marionette	INFO	Listening on port 33559
+WebDriver BiDi listening on ws://localhost:34909
+Read port: 33559
+1672563302359	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilevUbKx6/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:34909/devtools/browser/8b2efbf1-1433-41e7-b3c8-303da8745a32
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://consent.youtube.com"
+[2023-01-01T08:55:27Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2023-01-01T08:55:27Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2023-01-01T08:55:27Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2023-01-01T08:55:27Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+console.error: "Error while calling actor 'pagestyle's method 'getLayout'" "node is null"
+console.error: (new TypeError("node is null", "resource://devtools/server/actors/page-style.js", 1005))
+console.error: (new Error("Protocol error (TypeError): node is null from: server0.conn0.windowGlobal4294967299/pagestyle23 (resource://devtools/server/actors/page-style.js:1005:5)", "resource://devtools/shared/protocol/Front.js", 365))
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 1996\"  data: no]"
+1672563835901	Marionette	INFO	Stopped listening on port 33559
+1672576003087	geckodriver	INFO	Listening on 127.0.0.1:54939
+1672576003623	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "50137" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilePHzvkT"
+1672576004134	Marionette	INFO	Marionette enabled
+1672576004138	Marionette	INFO	Listening on port 39013
+WebDriver BiDi listening on ws://localhost:50137
+Read port: 39013
+1672576004325	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilePHzvkT/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:50137/devtools/browser/0318642d-ba83-4cd7-a5ca-705f9aa1a8e1
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://consent.youtube.com"
+[2023-01-01T12:26:50Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2023-01-01T12:26:50Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2023-01-01T12:26:50Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2023-01-01T12:26:50Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+console.error: "Error while calling actor 'pagestyle's method 'getLayout'" "node is null"
+console.error: (new TypeError("node is null", "resource://devtools/server/actors/page-style.js", 1005))
+console.error: (new Error("Protocol error (TypeError): node is null from: server0.conn0.windowGlobal4294967299/pagestyle23 (resource://devtools/server/actors/page-style.js:1005:5)", "resource://devtools/shared/protocol/Front.js", 365))
