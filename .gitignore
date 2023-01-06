@@ -1,4 +1,6 @@
 .idea
- geckodriver.log
- venv
-
+geckodriver.log
+venv
+downloads
+*.log
+playlist.txt
