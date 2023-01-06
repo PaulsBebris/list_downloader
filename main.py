@@ -23,8 +23,6 @@ for i in range(len(reject_btn)):
         break
 reject_btn[btn_index].click()
 
-# get needed container
-## get container list
 time.sleep(1)
 titles = driver.find_elements(By.ID, 'video-title')
 playlist = driver.find_elements(By.CSS_SELECTOR, 'a.yt-simple-endpoint.style-scope.yt-formatted-string')
@@ -48,13 +46,8 @@ for i in selection_numbers:
     os.chdir(playlist_file[int(i)-1][1])
     subprocess.run(['youtube-dl', playlist_file[int(i)-1][2]])
     os.chdir('../')
-#style-scope ytd-grid-renderer
-# parsle datastructure to find list to download
-# get url from current page
-# pass url to youtube-dl as list
-# create folder with downloadable files
-# TODO pass a text file with download channel name + list name
 
+# TODO pass a text file with download channel name + list name
 
 print('-----DONE-----')
 
