@@ -10,8 +10,8 @@ from subprocess import call
 # -youtube chanel name -playlist name OR -filename with CSV formatted lines as per commandline parameters
 # chanel = 'NetworkDirection'
 # playlist = 'ccna training'
-chanel = sys.argv[0]
-playlist = sys.argv[1]
+chanel = sys.argv[1]
+# playlist = sys.argv[2]
 playlist_file = []
 
 driver = webdriver.Firefox()
@@ -41,7 +41,7 @@ for i in playlist_file:
 
 selection = input('Enter desired downloads separated by comma or single number: ')
 selection_numbers = selection.split(',')
-str = open('playlist.txt', 'wt')
+playlist_txt = open('playlist.txt', 'wt')
 
 
 def youtubedl(resource):
@@ -50,7 +50,7 @@ def youtubedl(resource):
 
 PATH = getcwd() + '/downloads/'
 for i in selection_numbers:
-    str.write(playlist_file[int(i) - 1][1] + ':' + playlist_file[int(i) - 1][2] + '\n')
+    playlist_txt.write(playlist_file[int(i) - 1][1] + ':' + playlist_file[int(i) - 1][2] + '\n')
     try:
         chdir(PATH)
         mkdir(playlist_file[int(i) - 1][1])
