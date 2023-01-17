@@ -1,1 +1,3 @@
+Subnet and Vlan Enterprise Design:https://www.youtube.com/playlist?list=PLDQaRcbiSnqGVsr-2j3JcHoKZ9VPh4xW7
+Cisco CCNP Training (Encor 350-401):https://www.youtube.com/playlist?list=PLDQaRcbiSnqEGTQWDng6O_tV2RkifRDhL
 CCNA Training:https://www.youtube.com/playlist?list=PLDQaRcbiSnqEDtULk0YIO-Lo2x5Yb_0yv

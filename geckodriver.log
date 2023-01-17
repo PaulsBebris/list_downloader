@@ -3041,3 +3041,641 @@ console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message f
 Exiting due to channel error.
 Exiting due to channel error.
 Exiting due to channel error.
+1673197671217	geckodriver	INFO	Listening on 127.0.0.1:35295
+1673197671765	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "54055" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilerUBVEN"
+1673197672293	Marionette	INFO	Marionette enabled
+1673197672298	Marionette	INFO	Listening on port 33991
+WebDriver BiDi listening on ws://localhost:54055
+Read port: 33991
+1673197672465	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilerUBVEN/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:54055/devtools/browser/01d13252-c147-4c23-9acd-9c3ab80ebca1
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://consent.youtube.com"
+[2023-01-08T17:07:57Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2023-01-08T17:07:57Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2023-01-08T17:07:57Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2023-01-08T17:07:57Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 1996\"  data: no]"
+1673197779818	Marionette	INFO	Stopped listening on port 33991
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1673198463412	geckodriver	INFO	Listening on 127.0.0.1:40111
+1673198463449	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "37583" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilelC8JCU"
+1673198463977	Marionette	INFO	Marionette enabled
+1673198463981	Marionette	INFO	Listening on port 41573
+WebDriver BiDi listening on ws://localhost:37583
+Read port: 41573
+1673198464138	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilelC8JCU/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:37583/devtools/browser/0a00f511-bf07-4ffa-aed6-6e343d7125bc
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://consent.youtube.com"
+[2023-01-08T17:21:09Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2023-01-08T17:21:09Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2023-01-08T17:21:09Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2023-01-08T17:21:09Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 1996\"  data: no]"
+1673198565959	Marionette	INFO	Stopped listening on port 41573
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1673198741428	geckodriver	INFO	Listening on 127.0.0.1:40303
+1673198741463	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "33637" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileCig3IQ"
+1673198741988	Marionette	INFO	Marionette enabled
+1673198741993	Marionette	INFO	Listening on port 35443
+WebDriver BiDi listening on ws://localhost:33637
+Read port: 35443
+1673198742187	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileCig3IQ/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:33637/devtools/browser/f726931a-8e1b-4fdf-8038-801a05448900
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://consent.youtube.com"
+[2023-01-08T17:25:47Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2023-01-08T17:25:47Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2023-01-08T17:25:47Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2023-01-08T17:25:47Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 1996\"  data: no]"
+1673199397615	Marionette	INFO	Stopped listening on port 35443
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1673199732160	geckodriver	INFO	Listening on 127.0.0.1:42075
+1673199732193	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "35213" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileFbArki"
+1673199732702	Marionette	INFO	Marionette enabled
+1673199732707	Marionette	INFO	Listening on port 45047
+WebDriver BiDi listening on ws://localhost:35213
+Read port: 45047
+1673199732985	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileFbArki/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:35213/devtools/browser/b07b819d-4e3c-46fa-b87f-6e2ad3e3d78d
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://consent.youtube.com"
+[2023-01-08T17:42:18Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2023-01-08T17:42:18Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2023-01-08T17:42:18Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2023-01-08T17:42:18Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 1996\"  data: no]"
+1673199800679	Marionette	INFO	Stopped listening on port 45047
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1673200167359	geckodriver	INFO	Listening on 127.0.0.1:47735
+1673200167394	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "46267" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilesw9GYZ"
+1673200167904	Marionette	INFO	Marionette enabled
+1673200167908	Marionette	INFO	Listening on port 35909
+WebDriver BiDi listening on ws://localhost:46267
+Read port: 35909
+1673200168218	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilesw9GYZ/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:46267/devtools/browser/85d95c68-f44b-4aac-b349-854b6d6509f2
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://consent.youtube.com"
+[2023-01-08T17:49:33Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2023-01-08T17:49:33Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2023-01-08T17:49:35Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2023-01-08T17:49:35Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 1996\"  data: no]"
+1673200244188	Marionette	INFO	Stopped listening on port 35909
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1673955156477	geckodriver	INFO	Listening on 127.0.0.1:53773
+1673955156512	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "52475" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile7KjsqN"
+1673955157028	Marionette	INFO	Marionette enabled
+1673955157033	Marionette	INFO	Listening on port 38953
+WebDriver BiDi listening on ws://localhost:52475
+Read port: 38953
+1673955157329	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile7KjsqN/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:52475/devtools/browser/f59af77f-283c-43b8-9781-058c862b8bbf
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://consent.youtube.com"
+[2023-01-17T11:32:44Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2023-01-17T11:32:44Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2023-01-17T11:32:44Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2023-01-17T11:32:44Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+1673955319096	geckodriver	INFO	Listening on 127.0.0.1:47973
+1673955319138	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "59847" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile73BeSv"
+1673955319647	Marionette	INFO	Marionette enabled
+1673955319651	Marionette	INFO	Listening on port 34653
+WebDriver BiDi listening on ws://localhost:59847
+Read port: 34653
+1673955319897	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile73BeSv/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:59847/devtools/browser/9ffedfbd-6d1a-4174-9471-25ce83c04ba1
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://consent.youtube.com"
+[2023-01-17T11:35:26Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2023-01-17T11:35:26Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2023-01-17T11:35:26Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2023-01-17T11:35:26Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1673955631651	geckodriver	INFO	Listening on 127.0.0.1:44323
+1673955631689	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "39977" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileQyqFwx"
+1673955632205	Marionette	INFO	Marionette enabled
+1673955632209	Marionette	INFO	Listening on port 35023
+WebDriver BiDi listening on ws://localhost:39977
+Read port: 35023
+1673955632461	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileQyqFwx/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:39977/devtools/browser/36e5ab5b-bb08-48da-a2f7-7038ec5e4f73
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://consent.youtube.com"
+[2023-01-17T11:40:38Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2023-01-17T11:40:38Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2023-01-17T11:40:38Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2023-01-17T11:40:38Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1673956108213	geckodriver	INFO	Listening on 127.0.0.1:36349
+1673956108258	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "45795" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileqoeEJP"
+1673956108765	Marionette	INFO	Marionette enabled
+1673956108770	Marionette	INFO	Listening on port 44235
+WebDriver BiDi listening on ws://localhost:45795
+Read port: 44235
+1673956108971	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileqoeEJP/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:45795/devtools/browser/bbc94c6c-8e27-47e6-960f-e2ae8af74235
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://consent.youtube.com"
+[2023-01-17T11:48:34Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2023-01-17T11:48:34Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2023-01-17T11:48:34Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2023-01-17T11:48:34Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 1996\"  data: no]"
+1673956405411	Marionette	INFO	Stopped listening on port 38953
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1673956504540	geckodriver	INFO	Listening on 127.0.0.1:41311
+1673956504576	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "50995" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile5EYTJ6"
+1673956505090	Marionette	INFO	Marionette enabled
+1673956505095	Marionette	INFO	Listening on port 36115
+WebDriver BiDi listening on ws://localhost:50995
+Read port: 36115
+1673956505361	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile5EYTJ6/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:50995/devtools/browser/b0825a4a-a7eb-42af-8145-9eb477779575
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://consent.youtube.com"
+[2023-01-17T11:55:11Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2023-01-17T11:55:11Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2023-01-17T11:55:11Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2023-01-17T11:55:11Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 1996\"  data: no]"
+1673957037685	Marionette	INFO	Stopped listening on port 36115
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1673957336007	geckodriver	INFO	Listening on 127.0.0.1:51099
+1673957336047	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "37271" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilekQe5jv"
+1673957336565	Marionette	INFO	Marionette enabled
+1673957336569	Marionette	INFO	Listening on port 33793
+WebDriver BiDi listening on ws://localhost:37271
+Read port: 33793
+1673957336792	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilekQe5jv/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:37271/devtools/browser/ede3d69f-5219-4be6-800d-a6525d1d86c0
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://consent.youtube.com"
+[2023-01-17T12:09:02Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2023-01-17T12:09:02Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2023-01-17T12:09:02Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2023-01-17T12:09:02Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1673957685416	geckodriver	INFO	Listening on 127.0.0.1:52461
+1673957685455	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "57113" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileuvBbU8"
+1673957685978	Marionette	INFO	Marionette enabled
+1673957685983	Marionette	INFO	Listening on port 46475
+WebDriver BiDi listening on ws://localhost:57113
+Read port: 46475
+1673957686263	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileuvBbU8/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:57113/devtools/browser/260375e8-02cc-45ef-8079-92e77c0f0994
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://consent.youtube.com"
+[2023-01-17T12:14:51Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2023-01-17T12:14:51Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2023-01-17T12:14:51Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2023-01-17T12:14:51Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+1673957951568	geckodriver	INFO	Listening on 127.0.0.1:58153
+1673957951618	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "55833" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilepsQxBX"
+1673957952135	Marionette	INFO	Marionette enabled
+1673957952140	Marionette	INFO	Listening on port 33375
+WebDriver BiDi listening on ws://localhost:55833
+Read port: 33375
+1673957952401	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilepsQxBX/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:55833/devtools/browser/1eacc608-960f-4c66-ac8e-c4388a0f7043
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://consent.youtube.com"
+[2023-01-17T12:19:18Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2023-01-17T12:19:18Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2023-01-17T12:19:18Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2023-01-17T12:19:18Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1673958361332	geckodriver	INFO	Listening on 127.0.0.1:44281
+1673958361371	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "59377" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileWFlPL9"
+1673958361890	Marionette	INFO	Marionette enabled
+1673958361895	Marionette	INFO	Listening on port 38477
+WebDriver BiDi listening on ws://localhost:59377
+Read port: 38477
+1673958362067	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileWFlPL9/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:59377/devtools/browser/de1fa87d-9dc1-4e99-809a-65439cd7b1ba
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://consent.youtube.com"
+[2023-01-17T12:26:07Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2023-01-17T12:26:07Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2023-01-17T12:26:07Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2023-01-17T12:26:07Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+1673958870511	geckodriver	INFO	Listening on 127.0.0.1:37485
+1673958870551	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "34029" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilemjjIVM"
+1673958871081	Marionette	INFO	Marionette enabled
+1673958871085	Marionette	INFO	Listening on port 41157
+WebDriver BiDi listening on ws://localhost:34029
+Read port: 41157
+1673958871262	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilemjjIVM/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:34029/devtools/browser/59a5f5b1-5bc7-4a32-8536-09d75dfde72f
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://consent.youtube.com"
+[2023-01-17T12:34:36Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2023-01-17T12:34:36Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2023-01-17T12:34:36Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2023-01-17T12:34:36Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1673959168764	geckodriver	INFO	Listening on 127.0.0.1:46643
+1673959168802	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "40061" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileymzY8a"
+1673959169328	Marionette	INFO	Marionette enabled
+1673959169333	Marionette	INFO	Listening on port 39151
+WebDriver BiDi listening on ws://localhost:40061
+Read port: 39151
+1673959169484	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileymzY8a/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:40061/devtools/browser/54e3a106-e4ff-4679-b4a4-3a6208afaf07
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://consent.youtube.com"
+[2023-01-17T12:39:35Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2023-01-17T12:39:35Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2023-01-17T12:39:35Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2023-01-17T12:39:35Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+1673959223424	geckodriver	INFO	Listening on 127.0.0.1:56351
+1673959223463	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "42847" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileG5ApUX"
+1673959223975	Marionette	INFO	Marionette enabled
+1673959223979	Marionette	INFO	Listening on port 46491
+WebDriver BiDi listening on ws://localhost:42847
+Read port: 46491
+1673959224239	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileG5ApUX/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:42847/devtools/browser/e543ceb0-4dd1-4475-b6a6-decf1b701fec
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://consent.youtube.com"
+[2023-01-17T12:40:29Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2023-01-17T12:40:29Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2023-01-17T12:40:29Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2023-01-17T12:40:29Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+1673959332212	geckodriver	INFO	Listening on 127.0.0.1:37523
+1673959332252	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "39019" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile9F0UNP"
+1673959332769	Marionette	INFO	Marionette enabled
+1673959332774	Marionette	INFO	Listening on port 38033
+WebDriver BiDi listening on ws://localhost:39019
+Read port: 38033
+1673959332972	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile9F0UNP/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:39019/devtools/browser/d9fed21a-aaa8-40de-af17-27d2a097abd5
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://consent.youtube.com"
+[2023-01-17T12:42:18Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2023-01-17T12:42:18Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2023-01-17T12:42:18Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2023-01-17T12:42:18Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+1673959534438	geckodriver	INFO	Listening on 127.0.0.1:33625
+1673959534473	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "56145" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilebC9rWL"
+1673959535016	Marionette	INFO	Marionette enabled
+1673959535021	Marionette	INFO	Listening on port 42147
+WebDriver BiDi listening on ws://localhost:56145
+Read port: 42147
+1673959535166	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilebC9rWL/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:56145/devtools/browser/3f5d57bd-4245-476a-b41c-56d5b555614d
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://consent.youtube.com"
+[2023-01-17T12:45:41Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2023-01-17T12:45:41Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2023-01-17T12:45:41Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2023-01-17T12:45:43Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 1996\"  data: no]"
+1673959567049	Marionette	INFO	Stopped listening on port 42147
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 1996\"  data: no]"
+1673959568039	Marionette	INFO	Stopped listening on port 38033
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 1996\"  data: no]"
+1673959568675	Marionette	INFO	Stopped listening on port 46491
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 1996\"  data: no]"
+1673959569747	Marionette	INFO	Stopped listening on port 39151
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 1996\"  data: no]"
+1673959570514	Marionette	INFO	Stopped listening on port 46475
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1673959722521	geckodriver	INFO	Listening on 127.0.0.1:60777
+1673959722557	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "39835" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileYTRbOH"
+1673959723065	Marionette	INFO	Marionette enabled
+1673959723070	Marionette	INFO	Listening on port 38189
+WebDriver BiDi listening on ws://localhost:39835
+Read port: 38189
+1673959723368	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileYTRbOH/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:39835/devtools/browser/88d25b44-5613-424f-980a-4d89751f84da
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://consent.youtube.com"
+[2023-01-17T12:48:48Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2023-01-17T12:48:48Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2023-01-17T12:48:48Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2023-01-17T12:48:48Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1673961341391	geckodriver	INFO	Listening on 127.0.0.1:34553
+1673961341429	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "41565" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileAu2w0v"
+1673961341971	Marionette	INFO	Marionette enabled
+1673961341976	Marionette	INFO	Listening on port 32835
+WebDriver BiDi listening on ws://localhost:41565
+Read port: 32835
+1673961342108	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileAu2w0v/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:41565/devtools/browser/b015c1f8-dc18-4316-8363-87f0bc6a1ba0
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://consent.youtube.com"
+[2023-01-17T13:15:47Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2023-01-17T13:15:47Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2023-01-17T13:15:47Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2023-01-17T13:15:47Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+1673961590228	geckodriver	INFO	Listening on 127.0.0.1:36263
+1673961590266	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "54907" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilelY6vBd"
+1673961590769	Marionette	INFO	Marionette enabled
+1673961590773	Marionette	INFO	Listening on port 34209
+WebDriver BiDi listening on ws://localhost:54907
+Read port: 34209
+1673961591039	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilelY6vBd/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:54907/devtools/browser/363802e3-a4c8-4f33-925f-3471ad2b3603
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://consent.youtube.com"
+[2023-01-17T13:19:56Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2023-01-17T13:19:56Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2023-01-17T13:19:56Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2023-01-17T13:19:56Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1673962133502	geckodriver	INFO	Listening on 127.0.0.1:58137
+1673962133539	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "42727" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilegKi4vA"
+1673962134039	Marionette	INFO	Marionette enabled
+1673962134044	Marionette	INFO	Listening on port 35813
+WebDriver BiDi listening on ws://localhost:42727
+Read port: 35813
+1673962134328	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilegKi4vA/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:42727/devtools/browser/37cbe3cb-2019-4dae-9760-71fc976c3aae
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://consent.youtube.com"
+[2023-01-17T13:28:59Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2023-01-17T13:28:59Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2023-01-17T13:28:59Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2023-01-17T13:28:59Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+1673962207430	geckodriver	INFO	Listening on 127.0.0.1:43949
+1673962207466	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "58169" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofilejofqEq"
+1673962207978	Marionette	INFO	Marionette enabled
+1673962207982	Marionette	INFO	Listening on port 45069
+WebDriver BiDi listening on ws://localhost:58169
+Read port: 45069
+1673962208151	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilejofqEq/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:58169/devtools/browser/d251a3ba-3673-4823-ac04-bf315e07da08
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://consent.youtube.com"
+[2023-01-17T13:30:13Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2023-01-17T13:30:13Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2023-01-17T13:30:13Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2023-01-17T13:30:13Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 1996\"  data: no]"
+1673962253934	Marionette	INFO	Stopped listening on port 45069
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 1996\"  data: no]"
+1673962254813	Marionette	INFO	Stopped listening on port 35813
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 1996\"  data: no]"
+1673962255626	Marionette	INFO	Stopped listening on port 32835
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 1996\"  data: no]"
+1673965889944	Marionette	INFO	Stopped listening on port 38477
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1673976310012	geckodriver	INFO	Listening on 127.0.0.1:42721
+1673976310548	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "47479" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofiledjaaB5"
+1673976311059	Marionette	INFO	Marionette enabled
+1673976311064	Marionette	INFO	Listening on port 37887
+WebDriver BiDi listening on ws://localhost:47479
+Read port: 37887
+1673976311343	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofiledjaaB5/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:47479/devtools/browser/53996185-edfd-417a-aacb-940014b7e7e3
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://consent.youtube.com"
+[2023-01-17T17:25:16Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2023-01-17T17:25:16Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2023-01-17T17:25:16Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2023-01-17T17:25:16Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+1673976452538	geckodriver	INFO	Listening on 127.0.0.1:56031
+1673976452575	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "46047" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileGziX2q"
+1673976453088	Marionette	INFO	Marionette enabled
+1673976453092	Marionette	INFO	Listening on port 34155
+WebDriver BiDi listening on ws://localhost:46047
+Read port: 34155
+1673976453379	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileGziX2q/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:46047/devtools/browser/4146bf85-498e-4a76-8bbc-8377741c8fa3
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://consent.youtube.com"
+[2023-01-17T17:27:39Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2023-01-17T17:27:39Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2023-01-17T17:27:39Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2023-01-17T17:27:39Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 1996\"  data: no]"
+1673976460371	Marionette	INFO	Stopped listening on port 37887
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+1673976650280	geckodriver	INFO	Listening on 127.0.0.1:48323
+1673976650318	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "50885" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile3hq3Li"
+1673976650826	Marionette	INFO	Marionette enabled
+1673976650831	Marionette	INFO	Listening on port 41817
+WebDriver BiDi listening on ws://localhost:50885
+Read port: 41817
+1673976651005	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile3hq3Li/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:50885/devtools/browser/86d3db5c-c2b1-4d25-9a02-3a228c5a4f5b
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 1996\"  data: no]"
+1673976652821	Marionette	INFO	Stopped listening on port 34155
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+Sandbox: Unexpected EOF, op 0 flags 00 path /proc/cpuinfo
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://consent.youtube.com"
+[2023-01-17T17:30:56Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2023-01-17T17:30:56Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2023-01-17T17:30:56Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2023-01-17T17:30:56Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+1673977083051	geckodriver	INFO	Listening on 127.0.0.1:48581
+1673977083087	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "58303" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileQNi0N6"
+1673977083595	Marionette	INFO	Marionette enabled
+1673977083599	Marionette	INFO	Listening on port 44397
+WebDriver BiDi listening on ws://localhost:58303
+Read port: 44397
+1673977083886	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileQNi0N6/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:58303/devtools/browser/6ffe3df1-dd68-4c29-a339-e5191e3895c1
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://consent.youtube.com"
+[2023-01-17T17:38:09Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2023-01-17T17:38:09Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2023-01-17T17:38:09Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2023-01-17T17:38:09Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+1673977158284	geckodriver	INFO	Listening on 127.0.0.1:45329
+1673977158322	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "60793" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile7Yw546"
+1673977158837	Marionette	INFO	Marionette enabled
+1673977158841	Marionette	INFO	Listening on port 35965
+WebDriver BiDi listening on ws://localhost:60793
+Read port: 35965
+1673977159129	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile7Yw546/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:60793/devtools/browser/178433cb-90c2-41b7-ad51-a4994c73c483
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://consent.youtube.com"
+[2023-01-17T17:39:24Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2023-01-17T17:39:24Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2023-01-17T17:39:24Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2023-01-17T17:39:24Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 1996\"  data: no]"
+1673977398722	Marionette	INFO	Stopped listening on port 44397
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 1996\"  data: no]"
+1673977399432	Marionette	INFO	Stopped listening on port 41817
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1673977708726	geckodriver	INFO	Listening on 127.0.0.1:40447
+1673977708762	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "36503" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile8dE32d"
+1673977709271	Marionette	INFO	Marionette enabled
+1673977709275	Marionette	INFO	Listening on port 34521
+WebDriver BiDi listening on ws://localhost:36503
+Read port: 34521
+1673977709454	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile8dE32d/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:36503/devtools/browser/2543c748-027e-4fd3-8187-10bd207876b6
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://consent.youtube.com"
+[2023-01-17T17:48:35Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2023-01-17T17:48:35Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2023-01-17T17:48:35Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2023-01-17T17:48:35Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+1673977848291	geckodriver	INFO	Listening on 127.0.0.1:41435
+1673977848322	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "56477" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileXwa3i7"
+1673977848826	Marionette	INFO	Marionette enabled
+1673977848830	Marionette	INFO	Listening on port 45689
+WebDriver BiDi listening on ws://localhost:56477
+Read port: 45689
+1673977849088	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileXwa3i7/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://localhost:56477/devtools/browser/f97c0999-2665-4901-bf11-cccee6f56933
+console.warn: LoginRecipes: "getRecipes: falling back to a synchronous message for:" "https://consent.youtube.com"
+[2023-01-17T17:50:55Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2023-01-17T17:50:55Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2023-01-17T17:50:55Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+[2023-01-17T17:50:55Z ERROR mp4parse] Found 2 nul bytes in "\u{0}\u{0}"
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 1996\"  data: no]"
+1673978006424	Marionette	INFO	Stopped listening on port 34521
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.

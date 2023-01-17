@@ -1,19 +1,22 @@
-import os
-
+import sys
+from os import chdir, mkdir, getcwd
+from time import sleep
 from selenium import webdriver
 from selenium.webdriver.common.by import By
-import time
-import subprocess
+from multiprocessing import Process
+from subprocess import call
 
 # commandline parameters
 # -youtube chanel name -playlist name OR -filename with CSV formatted lines as per commandline parameters
-chanel = 'NetworkDirection'
-playlist = 'ccna training'
+# chanel = 'NetworkDirection'
+# playlist = 'ccna training'
+chanel = sys.argv[0]
+playlist = sys.argv[1]
 playlist_file = []
 
 driver = webdriver.Firefox()
 driver.get('https://www.youtube.com/@' + format(str(chanel)) + '/playlists')
-time.sleep(1)
+sleep(1)
 # TODO important dialog set language as EN !!!
 reject_btn = driver.find_elements(By.CLASS_NAME, 'VfPpkd-vQzf8d')
 btn_index = None
@@ -23,33 +26,39 @@ for i in range(len(reject_btn)):
         break
 reject_btn[btn_index].click()
 
-time.sleep(1)
+sleep(1)
 titles = driver.find_elements(By.ID, 'video-title')
 playlist = driver.find_elements(By.CSS_SELECTOR, 'a.yt-simple-endpoint.style-scope.yt-formatted-string')
 # TODO create logic to read from file if present in current dir
 # parse list
 for i, j in enumerate(titles):
     title = j.text
-    if i <= len(playlist)-1:
+    if i <= len(playlist) - 1:
         href = playlist[i].get_attribute('href')
-        playlist_file.append((i+1, title, href))
+        playlist_file.append((i + 1, title, href))
 for i in playlist_file:
     print(f'{i[0]} : {i[1]}\n')
 
-selection = input('Enter desired downloads separated by comma or single number')
+selection = input('Enter desired downloads separated by comma or single number: ')
 selection_numbers = selection.split(',')
-str = open('playlist.txt','wt')
+str = open('playlist.txt', 'wt')
+
+
+def youtubedl(resource):
+    call(["youtube-dl", resource])
+
+
+PATH = getcwd() + '/downloads/'
 for i in selection_numbers:
-    str.write(playlist_file[int(i)-1][1] + ':' + playlist_file[int(i)-1][2] + '\n')
-    os.chdir('./downloads')
-    os.mkdir(playlist_file[int(i)-1][1])
-    os.chdir(playlist_file[int(i)-1][1])
-    subprocess.run(['youtube-dl', playlist_file[int(i)-1][2]])
-    os.chdir('../')
+    str.write(playlist_file[int(i) - 1][1] + ':' + playlist_file[int(i) - 1][2] + '\n')
+    try:
+        chdir(PATH)
+        mkdir(playlist_file[int(i) - 1][1])
+    except FileExistsError:
+        pass
+    chdir(playlist_file[int(i) - 1][1])
+    Process(target=youtubedl, args=(playlist_file[int(i) - 1][2],), name='XXX'+i).start()
 
-# TODO pass a text file with download channel name + list name
+    chdir(PATH)
 
-print('-----DONE-----')
-
-
-
+print('-----Download in progress-----')
